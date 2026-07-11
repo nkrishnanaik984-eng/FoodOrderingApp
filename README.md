@@ -197,7 +197,6 @@ http://localhost:8080/FoodOrderingApp/
   <img width="1909" height="915" alt="Screenshot 2026-07-11 162506" src="https://github.com/user-attachments/assets/a273d432-899b-42f3-b698-4fd78aa2fd48" />
   <img width="1895" height="916" alt="Screenshot 2026-07-11 162535" src="https://github.com/user-attachments/assets/73cf50a6-1742-4062-a4e2-b17e3ff7774d" />
   <img width="1922" height="914" alt="Screenshot 2026-07-11 162613" src="https://github.com/user-attachments/assets/28789921-5458-4793-b5c1-85e3c482bf0b" />
-<img width="1922" height="905" alt="Screenshot 2026-07-11 162626" src="https://github.com/user-attachments/assets/18d2b491-fff3-4ba5-ae8b-ee1188bd3ffe" />
 <img width="1921" height="915" alt="Screenshot 2026-07-11 162639" src="https://github.com/user-attachments/assets/768017f1-08e8-4b1a-be13-8c68e4bb61d2" />
 <img width="1921" height="910" alt="Screenshot 2026-07-11 162655" src="https://github.com/user-attachments/assets/1734aa69-160f-4510-8740-c85cf64517e1" />
 
