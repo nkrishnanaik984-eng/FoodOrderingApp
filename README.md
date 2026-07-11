@@ -192,7 +192,6 @@ http://localhost:8080/FoodOrderingApp/
 * 🛒 Shopping Cart
 * 💰 Checkout
 * 📦 Order Confirmation
-  <img width="1920" height="1080" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/a46d0f92-f42a-466f-839b-405105426f96" />
   <img width="1921" height="912" alt="Screenshot 2026-07-11 162205" src="https://github.com/user-attachments/assets/72701b46-e0ca-4005-b1b8-1f39a528388e" />
   <img width="1900" height="910" alt="Screenshot 2026-07-11 162232" src="https://github.com/user-attachments/assets/f9846ae4-2d0c-42d1-b1a3-3c9a9b4f2503" />
   <img width="1909" height="915" alt="Screenshot 2026-07-11 162506" src="https://github.com/user-attachments/assets/a273d432-899b-42f3-b698-4fd78aa2fd48" />
